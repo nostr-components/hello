@@ -7,6 +7,6 @@ render(html`<${Navbar} />
 
 <${Sidebar} />
 
-Hello Nostr!
+<div style="padding-left: 200px">Hello Nostr!</div>
 
 `, document.body)
