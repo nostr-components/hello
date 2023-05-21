@@ -7,7 +7,11 @@ const links = [
   { '@id': '#', label: 'Sidebar' }
 ]
 
-render(html`<${Navbar} />
+const nav = [
+  { '@id': '#', label: 'Home' }
+]
+
+render(html`<${Navbar} links="${nav}" />
 
 <${Sidebar} links="${links}" />
 
