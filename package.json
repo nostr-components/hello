@@ -1,0 +1,30 @@
+{
+  "name": "nostr-components-hello",
+  "version": "0.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nostr-components/hello.git"
+  },
+  "keywords": [
+    "nostr",
+    "nostdav",
+    "app"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nostr-components/hello/issues"
+  },
+  "homepage": "https://github.com/nostr-components/hello#readme",
+  "dependencies": {
+    "htm": "^3.1.1",
+    "nostr-components-navbar": "^0.0.6",
+    "nostr-components-sidebar": "^0.0.1"
+  }
+}
