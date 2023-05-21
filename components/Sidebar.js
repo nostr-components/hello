@@ -4,7 +4,7 @@ const sidebarStyle = {
   position: 'fixed',
   width: '200px',
   height: '100%',
-  backgroundColor: '#2043b6',
+  backgroundColor: '#0048a4',
   overflow: 'auto',
   paddingTop: '20px'
 }
