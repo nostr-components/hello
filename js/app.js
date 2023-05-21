@@ -7,6 +7,6 @@ render(html`<${Navbar} />
 
 <${Sidebar} />
 
-<div style="padding-left: 200px">Hello Nostr!</div>
+<div style="padding-left: 220px; padding-top: 20px ">${di.data.name}</div>
 
 `, document.body)
