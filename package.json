@@ -1,6 +1,6 @@
 {
   "name": "nostr-components-hello",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "hello",
   "main": "index.js",
   "scripts": {
